@@ -3,35 +3,35 @@
     "Name": "Customer Segmentation AI",
     "Description": "Customer Segmentation AI groups customers based on their behavior and preferences. It helps businesses understand their audience better.",
     "Version": "0.0.1",
-    "image": "genaibanner",
+    "image": "https://raw.githubusercontent.com/surendran-techmango/ai-ml/refs/heads/main/seg.webp",
     "Link": "https://tm-customersegmentation.salmonglacier-fa0b037f.southindia.azurecontainerapps.io/"
   },
   {
     "Name": "Form Extractor",
     "Description": "A Form Extractor Agent is an AI tool designed to identify, extract, and structure data from digital or scanned forms accurately.",
     "Version": "0.0.1",
-    "image": "formextractor",
+    "image": "https://raw.githubusercontent.com/surendran-techmango/ai-ml/refs/heads/main/form_extractor.png",
     "Link": "https://tm-formextractor.salmonglacier-fa0b037f.southindia.azurecontainerapps.io"
   },
   {
     "Name": "The Video Generation AI",
     "Description": "Transform your ideas into dynamic videos effortlessly with AI-powered tools. Whether you are creating content from text prompts or animating still images, these platforms offer intuitive interfaces and high-quality outputs.",
     "Version": "0.0.3",
-    "image": "video_generator",
+    "image": "https://raw.githubusercontent.com/surendran-techmango/ai-ml/refs/heads/main/video_generator.jpg",
     "Link": "https://tm-ad-gen.salmonglacier-fa0b037f.southindia.azurecontainerapps.io"
   },
   {
     "Name": "Mango Genie",
     "Description": "Mango Genie is your smart, always-on conversational assistant. Whether you need help drafting messages, solving problems, generating ideas, or getting instant answers, Genie is ready with intelligent, natural responses. Just type your wish—and Genie delivers.",
     "Version": "0.0.1",
-    "image": "geniechat",
+    "image": "https://raw.githubusercontent.com/surendran-techmango/ai-ml/refs/heads/main/genie.png",
     "Link": "https://tm-genie.salmonglacier-fa0b037f.southindia.azurecontainerapps.io/"
   },
   {
     "Name": "Anomaly Detection",
     "Description": "Our Anomaly Detection helps you automatically identify unusual patterns, outliers, or unexpected behavior in your data—before they cause real issues. Powered by intelligent algorithms, it continuously monitors your systems, logs, or metrics and alerts you when something looks off.",
     "Version": "0.0.2",
-    "image": "anomalydetection",
+    "image": "https://raw.githubusercontent.com/surendran-techmango/ai-ml/refs/heads/main/anomaly.png",
     "Link": "https://tm-anomaly-detection.salmonglacier-fa0b037f.southindia.azurecontainerapps.io/"
   }
 ]
