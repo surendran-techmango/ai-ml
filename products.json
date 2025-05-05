@@ -1,0 +1,37 @@
+[
+  {
+    "Name": "Customer Segmentation AI",
+    "Description": "Customer Segmentation AI groups customers based on their behavior and preferences. It helps businesses understand their audience better.",
+    "Version": "0.0.1",
+    "image": "genaibanner",
+    "Link": "https://tm-customersegmentation.salmonglacier-fa0b037f.southindia.azurecontainerapps.io/"
+  },
+  {
+    "Name": "Form Extractor",
+    "Description": "A Form Extractor Agent is an AI tool designed to identify, extract, and structure data from digital or scanned forms accurately.",
+    "Version": "0.0.1",
+    "image": "formextractor",
+    "Link": "https://tm-formextractor.salmonglacier-fa0b037f.southindia.azurecontainerapps.io"
+  },
+  {
+    "Name": "The Video Generation AI",
+    "Description": "Transform your ideas into dynamic videos effortlessly with AI-powered tools. Whether you are creating content from text prompts or animating still images, these platforms offer intuitive interfaces and high-quality outputs.",
+    "Version": "0.0.3",
+    "image": "video_generator",
+    "Link": "https://tm-ad-gen.salmonglacier-fa0b037f.southindia.azurecontainerapps.io"
+  },
+  {
+    "Name": "Mango Genie",
+    "Description": "Mango Genie is your smart, always-on conversational assistant. Whether you need help drafting messages, solving problems, generating ideas, or getting instant answers, Genie is ready with intelligent, natural responses. Just type your wish—and Genie delivers.",
+    "Version": "0.0.1",
+    "image": "geniechat",
+    "Link": "https://tm-genie.salmonglacier-fa0b037f.southindia.azurecontainerapps.io/"
+  },
+  {
+    "Name": "Anomaly Detection",
+    "Description": "Our Anomaly Detection helps you automatically identify unusual patterns, outliers, or unexpected behavior in your data—before they cause real issues. Powered by intelligent algorithms, it continuously monitors your systems, logs, or metrics and alerts you when something looks off.",
+    "Version": "0.0.2",
+    "image": "anomalydetection",
+    "Link": "https://tm-anomaly-detection.salmonglacier-fa0b037f.southindia.azurecontainerapps.io/"
+  }
+]
